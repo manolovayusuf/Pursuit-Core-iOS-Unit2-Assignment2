@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E87775521A4B4F70081E28E /* DetailedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E87775421A4B4F70081E28E /* DetailedViewController.swift */; };
+		2E87775921A4B6D60081E28E /* EpisodeCellTwo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E87775821A4B6D60081E28E /* EpisodeCellTwo.swift */; };
+		2E87775B21A4C1E30081E28E /* EpisodeCellOne.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E87775A21A4C1E30081E28E /* EpisodeCellOne.swift */; };
 		57D0D22A219F70EA00B5753A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D0D229219F70EA00B5753A /* AppDelegate.swift */; };
 		57D0D22C219F70EA00B5753A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57D0D22B219F70EA00B5753A /* ViewController.swift */; };
 		57D0D22F219F70EA00B5753A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57D0D22D219F70EA00B5753A /* Main.storyboard */; };
@@ -16,6 +19,9 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E87775421A4B4F70081E28E /* DetailedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailedViewController.swift; sourceTree = "<group>"; };
+		2E87775821A4B6D60081E28E /* EpisodeCellTwo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodeCellTwo.swift; sourceTree = "<group>"; };
+		2E87775A21A4C1E30081E28E /* EpisodeCellOne.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EpisodeCellOne.swift; sourceTree = "<group>"; };
 		57D0D226219F70EA00B5753A /* GameOfThrones.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GameOfThrones.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		57D0D229219F70EA00B5753A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		57D0D22B219F70EA00B5753A /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,7 +66,10 @@
 				57D0D22B219F70EA00B5753A /* ViewController.swift */,
 				57D0D22D219F70EA00B5753A /* Main.storyboard */,
 				57D0D23B219F719C00B5753A /* GOTEpisdoe.swift */,
+				2E87775A21A4C1E30081E28E /* EpisodeCellOne.swift */,
+				2E87775821A4B6D60081E28E /* EpisodeCellTwo.swift */,
 				57D0D230219F70EA00B5753A /* Assets.xcassets */,
+				2E87775421A4B4F70081E28E /* DetailedViewController.swift */,
 				57D0D232219F70EA00B5753A /* LaunchScreen.storyboard */,
 				57D0D235219F70EA00B5753A /* Info.plist */,
 			);
@@ -139,7 +148,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				57D0D23C219F719C00B5753A /* GOTEpisdoe.swift in Sources */,
+				2E87775921A4B6D60081E28E /* EpisodeCellTwo.swift in Sources */,
 				57D0D22C219F70EA00B5753A /* ViewController.swift in Sources */,
+				2E87775521A4B4F70081E28E /* DetailedViewController.swift in Sources */,
+				2E87775B21A4C1E30081E28E /* EpisodeCellOne.swift in Sources */,
 				57D0D22A219F70EA00B5753A /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
